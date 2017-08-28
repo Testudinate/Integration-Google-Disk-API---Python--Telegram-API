@@ -10,3 +10,6 @@ Integration Google Disk API - Python -Telegram API
 Documentation:
 
 https://core.telegram.org/api
+
+
+https://groosha.gitbooks.io/telegram-bot-lessons/content/chapter1.html
